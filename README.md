@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: attempting to access a property of a null object.  The `bug.as` file contains the erroneous code. The `bugSolution.as` file shows how to fix this using null checks.
